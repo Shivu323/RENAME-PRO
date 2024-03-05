@@ -16,21 +16,21 @@ class script(object):
 <b>⦿ /viewthumb - Use This Command To See Your Thumbnail</b>
 <b>⦿ /delthumb - Use This Command To Delete Your Thumbnail</b>"""
 
-    ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://t.me/Hx_RenameBot'>Rename Bot 2.0</a>
+    ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://t.me/BSHEGDE3'>Rename Bot 2.0</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/HxBots'>HxBots</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/Kirodewal'>Kirodewal</a>
+<b>🚀 Server :</b> <a href='https://t.me/BSHEGDE3'>BSHEGDE3</a>
+<b>📢 Channel :</b> <a href='https://t.me/BSHEGDE3'>BS HEGDE</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/Shreeshiva323'>BS HEGDE</a>
 
-<b>♻️ Bot Made By :</b> @HxBots"""
+<b>♻️ Bot Made By :</b> @BSHEGDE3"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>hxbots@sbi</code> 
+<b>🛍 UPI ID:</b> <code>s-hegad@paytm</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
